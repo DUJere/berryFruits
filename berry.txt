@@ -1,2 +1,4 @@
 berry is reddish fruits.
 raspberries are pink.
+blueberries are blue.
+
